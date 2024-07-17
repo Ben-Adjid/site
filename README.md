@@ -1,6 +1,7 @@
 # Générateur de Site Web
 
 Ce projet est un générateur de site web simple créé à l'aide de HTML, CSS et JavaScript. Il comprend une page d'accueil avec une navigation de base, une section de contenu principale et un pied de page.
+DEMO : https://Ben-Adjid.github.io/site 
 
 ## Fonctionnalités
 
